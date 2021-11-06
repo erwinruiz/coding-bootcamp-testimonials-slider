@@ -38,10 +38,6 @@
 }
 .slider img {
   height: 1.4rem;
-  transition: 250ms ease-in-out;
-}
-.slider .arrow-container:hover img {
-  transform: scale(1.2);
 }
 .testimonial-text {
   background: url("../images/pattern-quotes.svg") no-repeat 50% 0 / 6rem 5rem;
@@ -97,6 +93,10 @@
   }
   .slider img {
     height: 1.8rem;
+    transition: 250ms ease-in-out;
+  }
+  .slider .arrow-container:hover img {
+    transform: scale(1.2);
   }
   .testimonial-text {
     position: absolute;
