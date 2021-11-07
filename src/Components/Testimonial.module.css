@@ -13,6 +13,7 @@
   display: block;
   margin: 0 auto;
   border-radius: 0.5rem;
+  box-shadow: 0 4rem 5rem -3rem #2424717e;
 }
 .slider-container {
   display: flex;
